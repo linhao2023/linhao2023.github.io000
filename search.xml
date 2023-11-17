@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>谷歌相机（拍照利器）</title>
+      <link href="blog/%E8%B0%B7%E6%AD%8C%E7%9B%B8%E6%9C%BA%EF%BC%88%E6%8B%8D%E7%85%A7%E5%88%A9%E5%99%A8%EF%BC%89/"/>
+      <url>blog/%E8%B0%B7%E6%AD%8C%E7%9B%B8%E6%9C%BA%EF%BC%88%E6%8B%8D%E7%85%A7%E5%88%A9%E5%99%A8%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>谷歌相机开发者：谷歌公司<br>AGC谷歌相机移植版开发者：bigkaka大佬<br>配置制作者：ちん</p><p>我发现很多人推荐一些人新手去看其它人写的教程，教程上提供的安装包是官方的然后用的我的配置文件结果界面显示或是模式都跟我的不一样，他们又来反馈。。<br>hey，那我寄几写一个面向使用我的配置的用户的安装教程以及专用库的导入教程(新手教程)。</p><p>1.首先你需要从我的置顶帖 <a href="https://www.coolapk.com/feed/33799523?shareKey=NjY4NmMxOTJmYTA1NjU1NzFjNjY~&amp;shareUid=24951794&amp;shareFrom=com.coolapk.market_13.3.6">https://www.coolapk.com/feed/33799523?shareKey=NjY4NmMxOTJmYTA1NjU1NzFjNjY~&amp;shareUid=24951794&amp;shareFrom=com.coolapk.market_13.3.6</a> 找到下载链接，这是我提供的唯一链接。我只提供百度盘。(之前提供过Gdrive但不想透露自己的Google账号也木有其它盘所以不喜欢百度的话请忍忍。。) </p><p>2️⃣网盘文件目录有<br>1，配置文件(CRFV)，可以直接导入配置文件使用，也可以配合专用库文件。专用库的作用是锐化更少，降噪涂抹更少，细节解析力更好更细腻。锐化涂抹程度多少根据你选择的库不同而变化。最好都试试看自己喜欢哪种。<br>2，安装包(一定要用我网盘里的安装包，这是我基于agc官方版的修改)<br><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="1.jpg" alt=""></p><p>如文字所述一般机型下载通用安装包，联发科，oppo，一加机型下载各自的安装包。OPPO安装包根抖音包名冲突，所以有长焦的OPPO机型你需要卸载抖音或者使用极速版抖音或者改抖音的包名使他们共存。<br>3️⃣配置导入教程<br>下载你机型的对应配置文件，没有专用就用通用。<br><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="2.jpg" alt=""></p><p>安装完相机以后先打开app、他会自动在/Download文件夹生成AGC8.4文件夹，你需要在这个文件夹下新建一个Configs文件夹然后把下载的配置文件放进去<br><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="3.jpg" alt=""></p><p>这时候你再进入相机app，下拉出现后点击[ 加载配置 ]后就可以看到刚刚的配置文件。然后点击加载就完成了。<br><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="4.jpg" alt=""></p><p>然后你就可以开心地使用了(其实也可以在 更多设置-＞配置-＞导入配置后加载，有些机型好像无法成功导入所以通过新建目录手动放入配置) </p><p>4️⃣专用库导入教程<br><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="5.jpg" alt=""></p><p>除了配置文件以外你还需要下载一般机型专用库，联发科猎户座或者拍照黑片问题的机子需要用另一个专用库文件夹里的。<br>各个库文件区别到这篇文章看。<br><a href="https://www.coolapk.com/feed/42856229?shareKey=NjUwY2I3MzJjYzFjNjU1NzFkOWE~&amp;shareUid=24951794&amp;shareFrom=com.coolapk.market_13.3.6">https://www.coolapk.com/feed/42856229?shareKey=NjUwY2I3MzJjYzFjNjU1NzFkOWE~&amp;shareUid=24951794&amp;shareFrom=com.coolapk.market_13.3.6</a><br>先导入库还是配置都可以(有反馈导入库后闪退的情况那你可尝试先导库后再加载配置，再切换库大概率没问题)，还有经常出现一切换库就闪退的原因是下载的不完整(0kb等)<br><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="6.jpg" alt=""></p><p>加载配置后按照下图步骤导入并切换库文件，库文件放在哪个目录都可以你只要找到加载就可以。<br>拍照界面下拉点击[ 更多设置 ]-＞[ 自定义库 ]-＞[ 将第三方库导入到谷歌相机 ] -＞找到库加载后切换即可。<br><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="7.jpg" alt=""></p><p>5，点开app后闪退的机型如何加载配置。<br>长按桌面图标进入视频录制后下拉加载防闪退配置(通用机型)。包括小米13，x90pro+，s23系列默认状态会黑屏，导入各自的专用配置就不会有黑屏闪退等问题。</p><p>6，刚刚相机如何不转圈拍摄/连拍。<br>下拉切换到中间的hdr+即可，但是仅建议光线好的情况使用。其它情况推荐默认的转圈圈hdr增强模式，可以获得更好的动态范围，更细腻的细节以及更好的降噪效果。<br>(注意千万不能关闭hdr。) </p><p>完</p><p>【作者的话：🥰谷歌相机12合一模式说明书在这里，非常推荐新人看看哦。<a href="https://www.coolapk.com/feed/38003563?shareKey=N2YwMzk4MTA3YWI4NjU1NzFkOTQ~&amp;shareUid=24951794&amp;shareFrom=com.coolapk.market_13.3.6】">https://www.coolapk.com/feed/38003563?shareKey=N2YwMzk4MTA3YWI4NjU1NzFkOTQ~&amp;shareUid=24951794&amp;shareFrom=com.coolapk.market_13.3.6】</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 玩机技巧 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 玩机技巧 Android </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>初步构建建一个hexo博客</title>
+      <link href="blog/%E5%88%9D%E6%AD%A5%E6%9E%84%E5%BB%BA%E5%BB%BA%E4%B8%80%E4%B8%AAhexo%E5%8D%9A%E5%AE%A2/"/>
+      <url>blog/%E5%88%9D%E6%AD%A5%E6%9E%84%E5%BB%BA%E5%BB%BA%E4%B8%80%E4%B8%AAhexo%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="视频教程"><a href="#视频教程" class="headerlink" title="视频教程"></a>视频教程</h1><font color="red">此视频与本文章并非同一个方法，看了视频就不要看本文章，看本文章就不要看视频</font><p>视频中的文件下载：<a href="https://cowtransfer.com/s/da6263591b0e4a">https://cowtransfer.com/s/da6263591b0e4a</a><br>视频最后的文章创建可在博客根目录找到“创建文章或页面.bat”然后打开code，找到 soure—_posts—你设置的文章标题.md（同名文件夹不要删，会有用的）<br>页面创建可在博客根目录找到“创建文章或页面.bat”然后打开code，找到 soure—你设置的页面标题文件夹—你设置的页面标题.done</p><p><iframe src="//player.bilibili.com/player.html?aid=435020948&bvid=BV1C3411m7Jf&cid=958010191&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 100%; height: 500px; max-width: 100%；align:center; padding:20px 0;"> </iframe><br>作者：ATOPOS_林浩<br>链接：<a href="https://www.bilibili.com/video/BV1C3411m7Jf/?spm_id_from=333.999.0.0&amp;vd_source=a62d9a18e91ada2157fa7684636a979b">https://www.bilibili.com/video/BV1C3411m7Jf/?spm_id_from=333.999.0.0&amp;vd_source=a62d9a18e91ada2157fa7684636a979b</a><br>来源：哔哩哔哩<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p><hr><h1 id="本文章"><a href="#本文章" class="headerlink" title="本文章"></a>本文章</h1><h3 id="小声bb"><a href="#小声bb" class="headerlink" title="小声bb"></a>小声bb</h3><p>之前在网上看到过很多大佬们的博客，心生羡慕，就想着弄一个博客玩玩，在网上搜了一下，就选择了hexo，因为当时没有服务器，所以没用wordpress,我基本上按照各大佬的教程来搞的，废话不多说上教程。</p><h2 id="1-安装node"><a href="#1-安装node" class="headerlink" title="1.安装node"></a>1.安装node</h2><p>(1) 打开node下载地址 <a href="https://nodejs.org/en/download/">https://nodejs.org/en/download/</a> 打开后选择要下载的版本进行下载。<br><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="1.jpg" alt=""></p><p>(2) 下载完成后，然后和安装windows软件没区别，一直下一步。接着用windows键+R键打开运行框<br><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="2.jpg" alt=""></p><p>(3) 在运行框里输入cmd，然后点击运行<br><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="3.jpg" alt=""></p><p>(4) 运行在出来的黑框里输入 node -v 看到版本信息即为下载成功<br><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="4.jpg" alt=""></p><h2 id="2-安装hexo"><a href="#2-安装hexo" class="headerlink" title="2.安装hexo"></a>2.安装hexo</h2><p>(1)再次win+R输入cmd，打开cmd窗口，输入</p><blockquote><p>npm install -g hexo-cli<br>(2)等待安装完毕，输入hexo -v 看到版本信息即为下载成功<br><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="5.jpg" alt=""></p></blockquote><h2 id="3-注册github"><a href="#3-注册github" class="headerlink" title="3.注册github"></a>3.注册github</h2><font color="red">(电脑进入网站非常卡顿或进不去，请自行搜索下载 Fastgithub )</font><p>(1)打开github官网<a href="https://github.com">https://github.com</a> (因为github时而抽风，建议挂梯子)</p><p>(2)点击右上Sigh up注册<br>直接打开<a href="https://github.com/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F&amp;source=header-home">https://github.com/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F&amp;source=header-home</a> 也行<br><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="6.jpg" alt=""><br>(3)依次输入邮箱、密码、用户名，然后邮箱完成验证即可</p><h2 id="4-创建github仓库"><a href="#4-创建github仓库" class="headerlink" title="4.创建github仓库"></a>4.创建github仓库</h2><p>(1)登录github后打开<a href="https://github.com/new">https://github.com/new</a></p><p>(2)Repository为用户名+github.io<br>Description为仓库说明(选填)<br>打钩Add a README file 创建一个README.md文件<br>点击Creat repository的绿色按钮创建仓库<br><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="7.jpg" alt=""></p><h2 id="5-安装git"><a href="#5-安装git" class="headerlink" title="5.安装git"></a>5.安装git</h2><p>(1)打开git的windows下载地址( <a href="https://git-scm.com/download/win">https://git-scm.com/download/win</a> )<br><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="8.jpg" alt=""></p><p>(2)点击 64-bit Git for Windows Setup.进行下载(官网下载很慢，可自行网络查找镜像下载)</p><p>(3)下载后，然后和安装windows软件没区别，一直下一步。</p><h2 id="6-连接到github"><a href="#6-连接到github" class="headerlink" title="6.连接到github"></a>6.连接到github</h2><p>(1)安装完后，打开Git Bash<br><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="9.jpg" alt=""></p><p>(2)输入以下指令</p><blockquote><blockquote><p>git config —global user.name “这里修改为你github的用户名”<br>git config —global user.email “这里修改为你github的邮箱”</p></blockquote></blockquote><p>如果没有报错的话就是成功了</p><p>输入 git config -l 可以检查一下</p><p>(3)生成公钥ssh，执行</p><blockquote><p>ssh-keygen -t rsa -C “这里改为你github的邮箱”</p></blockquote><p>(4)然后打开C:\Users\Administrator.ssh ,里面看到id_rsa为私钥，id_rsa.pub为公钥</p><p>(5)用记事本打开id_rsa.pub ，复制里面所有内容</p><p>(6)进入github,点击右上角头像里的settings，然后在设置页选择SSH and GPG keys，点击new ssh keys</p><p>(7)在页面中，title里填备注例如：hexo-ssh,key里填写刚才复制的内容，然后按绿色按钮</p><p>(8)在Git Bash运行命令测试连接</p><blockquote><p>ssh -T git@github.com</p></blockquote><p>出现以下界面为连接成功<br><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="10.jpg" alt=""></p><h2 id="7-初始化hexo"><a href="#7-初始化hexo" class="headerlink" title="7.初始化hexo"></a>7.初始化hexo</h2><p>(1)在桌面(其他路径也行)创建一个新文件夹，命名blog(其他也行)<br>(2)在该文件夹右键选择Git Bash,执行以下命令</p><blockquote><blockquote><p>hexo init<br>npm i</p></blockquote></blockquote><p>(3)执行完后可以看到文件夹里已经多了几个文件，这时再执行hexo sever(hexo s也行)，就可以通过本地预览，在浏览器输入<a href="http://localhost:4000/">http://localhost:4000/</a> 看到以下模样就说明构建成功<br><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="11.jpg" alt=""></p><h2 id="8-托管到github"><a href="#8-托管到github" class="headerlink" title="8.托管到github"></a>8.托管到github</h2><p>(1)我们在该目录右键Git Bash下输入以下命令安装上传到github插件</p><blockquote><p>npm install hexo-deployer-git —save</p></blockquote><p>(2)打开_config.yml,在最后中修改<br>deploy:<br>  type: git<br>  repository: git@github.com:你的github用户名/你的github用户名.github.io.git<br>  branch: master</p><p>(3)然后在Git Bash执行:</p><p>hexo clean<br>hexo generate<br>hexo deploy</p><p>deploy时可能要你输入 username(github用户名)和 password(github账号密码)</p><p>(4)这时候在 用户名.github.io 上就可以看到博客了</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> HEXO网站搭建 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网站搭建 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>安卓手机性能救星（Ct调度）</title>
+      <link href="blog/Ct%E8%B0%83%E5%BA%A6%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
+      <url>blog/Ct%E8%B0%83%E5%BA%A6%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>基于 chenzyadb 的 CuprumTurbo-Scheduler 打造的一个节能，高性能的调度项目<br>本调度使用C语言编辑，专为已Root 的设备提供可靠的CPU GPU控制</p><p>下载：<a href="https://github.com/Suni-code/Tritium/releases">https://github.com/Suni-code/Tritium/releases</a></p><p>本调度内置四种调度模式<br>-省电模式：不推荐日常使用，推荐作为待机时使用的模式<br>-均衡模式：及其推荐作为日常使用首选模式，能在保证流畅的前提下尽量保证较低的功耗<br>-性能模式：提供强力的性能，推荐在和平精英，王者荣耀这类中负载的游戏中使用<br>-极速模式：提供最激进的性能调度，推荐在原神，崩坏 星穹铁道这类重负载游戏中使用</p><p>支持的CPU型号（注：仅代表本调度，并不代表原版）<br>骁龙：845/855/855+/860/865/865+/870/888/888+/8Gen1/8+Gen1/7+Gen2/8Gen2<br>天玑：8000/8100/8200/9000/9000+/9200/9200+</p><p>本调度配置文件必须搭配Cutoolbox APP使用，酷安可以下载到</p><p>使用方法和注意事项<br>支持安卓8-13版本且能root的设备<br>安装cutoolbox 之后:<br>给cutoolbox无障碍和电池无限制权限<br>然后再去Cutoolbox里面找到拓展功能，点击里面的转系统应用模块，装好之后就不用cutoolbox软件留后台，因为已经成为系统级应用<br>然后点击自定义配置，点击导入，找到我的配置文件选择导入</p><p>1.使用本调度必须是在官方内核的情况下<br>2.骁龙芯片设备使用CT后不兼容任何形式的CPU降压和调速器模块，GPU降压可以用<br>3.天玑芯片设备使用CT后不兼容任何形式的CPU和GPU调速器,降压模块<br>4.不能装asoul线程优化模块<br>5.不能装yc及其子模块<br>6.不能装对CPU进行改动的模块<br>7.不能装Scene的去温控模块<br>8.MIUI优化模块不能装</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 玩机技巧 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 玩机技巧 Android </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>博主招募！</title>
+      <link href="blog/%E5%8D%9A%E4%B8%BB%E6%8B%9B%E5%8B%9F%EF%BC%81/"/>
+      <url>blog/%E5%8D%9A%E4%B8%BB%E6%8B%9B%E5%8B%9F%EF%BC%81/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>cool的机网博主招募中！<br>Cool的机网 是一个汇集科技数码大佬们教程文章的平台，致力于将这些宝贵的知识资源汇总在一个网站，让更多的人受益。<br>同时，我们还计划推出一个产品中心，汇总各位大佬开发研究的程序或应<br>用。<br>Cool的机网 是出于一种情怀，我们希望提供一个免费的、开源的资源共享平台，帮助博主们更好地推广自己的文章、教程和产品。<br>为了维持网站运营，我们可能会在网站中插入一些广告，但广告板块不会太大，应该是唯一的盈利项目，产生收益归所有的博主所有 。<br>如果你是一位在数码圈活跃的大佬，希望你在Cool的机网上分享你的知识和经验，一起打造一个免费、开源、实用的资源共享平台。<br>入驻要求：<br>1.是blbl、ku 安、kuai手、dou音、wei博、CSDN、zhi hu的用户（其一即可）<br>2.在此平台发布过五章以上的原创教程<br>3.拥有一个或多个自己或团队共同建立的产品(例如：工具箱)(不强求)<br>4.拥有个人博客网站最好<br>5.领域限制：手机移动端（安卓系统）、桌面PC端（Windows、Mac OS、Linux）的数码爱好者，可以是文章类博主，也可以是测评类博主。<br>欢迎你的加入！让我们一起为这个社区网站贡献力量，共同成长！<br>联系我们：v@linshiit.link（邮箱）</p><p>发起者简介：<br>ATOPOS_林浩（男。），定位于PC桌面端，代表作：林浩Win PE、林浩PC资源、hexo网站搭建快捷工具</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>把Windows装进U盘？即插即用，小白都会的win to go教程！</title>
+      <link href="blog/done/"/>
+      <url>blog/done/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="视频教程：https-www-bilibili-com-video-BV1J84y1A7se-vd-source-a62d9a18e91ada2157fa7684636a979b"><a href="#视频教程：https-www-bilibili-com-video-BV1J84y1A7se-vd-source-a62d9a18e91ada2157fa7684636a979b" class="headerlink" title="视频教程：https://www.bilibili.com/video/BV1J84y1A7se/?vd_source=a62d9a18e91ada2157fa7684636a979b"></a>视频教程：<a href="https://www.bilibili.com/video/BV1J84y1A7se/?vd_source=a62d9a18e91ada2157fa7684636a979b">https://www.bilibili.com/video/BV1J84y1A7se/?vd_source=a62d9a18e91ada2157fa7684636a979b</a></h1><h3 id="需要的工具："><a href="#需要的工具：" class="headerlink" title="需要的工具："></a>需要的工具：</h3><p>1.一块U盘</p><p>2.Windows 8LTSC企业版镜像，下载教程：<a href="https://www.bilibili.com/video/BV1MA41167qX/?vd_source=a62d9a18e91ada2157fa7684636a979b">康康视频教程</a></p><p>3.WTG辅助工具下载：<a href="https://dl.luobotou.org/wtga5610.zip">Download</a></p><h3 id="然后打开WTG辅助工具，页面如下："><a href="#然后打开WTG辅助工具，页面如下：" class="headerlink" title="然后打开WTG辅助工具，页面如下："></a>然后打开WTG辅助工具，页面如下：</h3><p><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="default (1" alt="">.jpg)</p><p>·首先点击第一个框框右面的浏览，选择你下载好的Windows10 LTSC企业版 镜像<br>·之后在第二个框框内选择你的U盘<br>·最后一个框框选择【1：Windows 8企业版 LTSC】<br><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="default (2" alt="">.jpg)</p><h2 id="整个过程可能需要很长时间哦"><a href="#整个过程可能需要很长时间哦" class="headerlink" title="整个过程可能需要很长时间哦~"></a>整个过程可能需要很长时间哦~</h2><p><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="default (3" alt="">.jpg)<br>成功后如下图所示，最后就可以关机重启进你的Win TO GO设置你的系统了！<br><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="default (4" alt="">.jpg)</p><h1 id="学会了吗？来我B站一键三连吧！"><a href="#学会了吗？来我B站一键三连吧！" class="headerlink" title="学会了吗？来我B站一键三连吧！"></a><a href="https://www.bilibili.com/read/cv22344833?spm_id_from=333.999.0.0">学会了吗？来我B站一键三连吧！</a></h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
